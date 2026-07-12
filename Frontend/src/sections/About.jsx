@@ -43,39 +43,30 @@ export const About = () => {
                 </div>
 
                 <h2 className="text-4xl md:text-5xl font-bold leading-tight animate-fade-in animation-delay-100 text-secondary-foreground">
-                Building the future,
+                Computer Science
                 <span className="font-serif italic font-normal text-white">
                     {" "}
-                    one component at a time.
+                    student & developer.
                 </span>
                 </h2>
 
                 <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
                 <p>
-                    I'm a passionate software engineer with over 5 years of
-                    experience crafting digital products that make a difference. My
-                    journey started with a curiosity for how things work on the web,
-                    and it has evolved into a deep expertise in modern frontend
-                    technologies.
+                    I'm a passionate Computer Science Engineering student with a deep interest in web development, algorithms, and software engineering. My journey started with curiosity about how technology works, and it has evolved into practical expertise in modern development tools and frameworks.
                 </p>
                 <p>
-                    I specialize in React, Next.js, and TypeScript, building
-                    everything from sleek landing pages to complex enterprise
-                    applications. My approach combines technical excellence with a
-                    keen eye for design and user experience.
+                    I specialize in React, Node.js, and Python, with hands-on experience building full-stack applications. I'm particularly interested in creating performant, scalable solutions and solving challenging algorithmic problems.
                 </p>
                 <p>
-                    When I'm not coding, you'll find me exploring new technologies,
-                    contributing to open-source projects, or sharing knowledge with
-                    the developer community.
+                    When I'm not coding, you'll find me solving problems on LeetCode, contributing to open-source projects, or learning the latest technologies. I believe in continuous growth and sharing knowledge with the developer community.
                 </p>
                 </div>
 
                 <div className="glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300">
                 <p className="text-lg font-medium italic text-foreground">
-                    "My mission is to create digital experiences that are not just
-                    functional, but truly delightful — products that users love to
-                    use and developers love to maintain."
+                    "My goal is to build impactful solutions that make a 
+                    difference, while continuously improving my skills and 
+                    contributing to the tech community."
                 </p>
                 </div>
             </div>

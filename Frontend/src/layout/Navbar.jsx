@@ -4,10 +4,14 @@ import { useEffect, useState } from "react";
 
 const navLinks = [
   { href: "#about", label: "About" },
+  { href: "#skills", label: "Skills" },
   { href: "#projects", label: "Projects" },
-  { href: "#experience", label: "Experience" },
-  { href: "#testimonials", label: "Testimonials" },
+  { href: "#education", label: "Education" },
+  { href: "#coding-profiles", label: "Coding Profiles" },
+  { href: "#contact", label: "Contact" }
 ];
+
+{/* { href: "#testimonials", label: "Testimonials" }, */}
 
 export const Navbar = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -34,7 +38,7 @@ export const Navbar = () => {
           href="#"
           className="text-xl font-bold tracking-tight hover:text-primary"
         >
-          PM<span className="text-primary">.</span>
+          SK<span className="text-primary">.</span>
         </a>
 
         {/* Desktop Nav */}
