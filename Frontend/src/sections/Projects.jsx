@@ -16,8 +16,17 @@ const projects = [
       "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
     image: "/projects/project2.png",
     tags: ["Django", "React", "PostgreSQL", "Tailwind"],
-    link: "#",
-    github: "#",
+    link: "https://github.com/ShreyasKudahalli/ShopSphere",
+    github: "https://github.com/ShreyasKudahalli/ShopSphere",
+  },
+  {
+    title: "Netflix Clone",
+    description:
+      "A modern Netflix-inspired streaming application built with React, Vite, and Tailwind CSS.",
+    image: "/projects/project3.png",
+    tags: ["React", "JavaScript", "Tailwind"],
+    link: "https://netflix-clone-five-iota-15.vercel.app/",
+    github: "https://github.com/ShreyasKudahalli/Netflix-clone",
   },
 ];
 
