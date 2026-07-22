@@ -28,6 +28,15 @@ const projects = [
     link: "https://netflix-clone-five-iota-15.vercel.app/",
     github: "https://github.com/ShreyasKudahalli/Netflix-clone",
   },
+  {
+    title: "URL Shortner",
+    description:
+      "A full-stack URL Shortener built with Django REST Framework and React that generates short links, redirects users, and provides click analytics through an intuitive dashboard.",
+    image: "/projects/project4.png",
+    tags: ["React", "DRF", "JWT"],
+    link: "https://github.com/ShreyasKudahalli/URL-Shortner",
+    github: "https://github.com/ShreyasKudahalli/URL-Shortner",
+  },
 ];
 
 export const Projects = () => {
